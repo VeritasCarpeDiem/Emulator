@@ -1,0 +1,6 @@
+mov R0 0 ;loop counter value
+mov R1 1
+mov R2 10 ;size of array
+mov R5 0xFFFF ;memory location of array (start)
+mov R6 0xFFFF ;moving memory location, this is the loop counter memory location
+mov R7 0 ;this is the sum 
